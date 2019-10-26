@@ -1,0 +1,125 @@
+a:hover {
+	text-decoration: none;
+}
+
+.logo_header {
+	text-align: center;
+}
+.clock:before {
+	content: url(../img/clock.png);
+	display: inline-block;
+	vertical-align: middle;
+}
+.clock {
+	text-transform: uppercase;
+	font-weight: 400;
+	margin-top: 10px;
+}
+.phone:before {
+	content: url(../img/phone.png);
+	display: inline-block;
+	vertical-align: middle;
+}
+.phone {
+	text-transform: uppercase;
+	font-weight: 400;
+	margin-top: 10px;
+	font-size: 1.75rem;
+	text-decoration: none;
+}
+.phone a {
+	text-decoration: none;
+	color: #0d6c93;
+}
+
+.slide {
+	background-color:#ffde00;
+	margin-top: -50px;
+}
+.slide h1 {
+	text-transform: uppercase;
+	color: #0d6c93;
+	font-weight: 800;
+}
+.title h3 {
+	color:#0d6c93;
+	text-transform: uppercase; 
+	font-weight: 800;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.product-cart h5 {
+	text-transform: uppercase;
+	color:#0d6c93;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-weight: 500;
+}
+.product-cart {
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.line-blue {
+	width: 40px;
+    height: 3px;
+    background-color: #0d6c93;
+    margin: 0 auto;
+}
+.center {
+	margin-top: 41px;
+}
+.button-call {
+    font-size: 1.25rem;
+    color: #0d6c93;
+    border: solid;
+    width: 130px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.button-call a {
+	color:#0d6c93;
+
+}
+.img_slide {
+	background-image: url(../img/slide.png);
+	width: 619px;
+	height: 452px;
+}
+#advantage {
+	background-color: #043c53;
+}
+.product-card h3 {
+	text-transform: uppercase;
+	color: #f4d606;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+.product-card {
+	text-align: center; 
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.line-orange {
+	width: 80px;
+    height: 3px;
+    background-color: #f4d606;
+    margin: 0 auto;
+}
+
+.title-orange h3 {
+	color:#f4d606;
+	text-transform: uppercase; 
+	font-weight: 800;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.product-card p {
+	color: white;
+    font-size: 18px;
+    margin-top: 15px;
+}
